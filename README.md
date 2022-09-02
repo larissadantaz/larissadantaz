@@ -1,5 +1,6 @@
-### Olá! Eu sou a Larissa! ✨
+### Oi! Eu sou a Larissa! ✨
 - ⌨️ Sou estudante de Análise e Desenvolvimento de Sistemas na São Paulo Tech School.
+- 📱Estagiária em desenvolvimento mobile
 
 <div align="center">
 <a href="https://github.com/larissadantaz">
